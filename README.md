@@ -1,0 +1,2 @@
+# Virtual-Radio-Broadcasting
+Audio signal processing is a subfield of signal processing that is concerned with the electronic manipulation of audio signals. The project, based on Signal Processing, employs sound as a signal and demonstrates various functionalities that can be performed on it. Further, it simulates complex real-world applications of sound wave/audio by assuming a simpler scenario. These functionalities are made possible with a convenient programming language Python and Spyder Integrated Development Environment (IDE). 
